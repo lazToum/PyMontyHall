@@ -1,0 +1,9 @@
+('/media/lary/7606DE0606DDC6F1/Users/Lary/Desktop/Mega/monty/dist/MontyHall',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1413972815)
