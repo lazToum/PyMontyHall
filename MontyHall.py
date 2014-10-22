@@ -1,6 +1,5 @@
 #!/usr/bin/ python2      
 from Tkinter import *  
-import math
 import random
 
 class Application(Frame):
